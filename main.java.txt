@@ -2,5 +2,5 @@
 int main (){
 
 so the out in c++ : 
-cout << "something";
+cout << "thats fuckin mis";
 }
