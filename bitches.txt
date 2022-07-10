@@ -1,4 +1,4 @@
 main {
-hello boy 
+there is no longer hello boy ;
 >
 }
