@@ -1,0 +1,6 @@
+#just test 
+int main (){
+
+so the out in c++ : 
+cout << "something";
+}
